@@ -1,0 +1,6 @@
+# robots.txt for sphoortipatil.com
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sphoortipatil.com/sitemap.xml
